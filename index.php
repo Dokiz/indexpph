@@ -67,18 +67,21 @@ else
 {
 	echo "ne ravni";
 }
+//
+//333333333333333
+//
+
+echo "\x8A","\xBS","\xB0","\xA7","\xB6\r";
+ $int=0;
+ $str="";
+ if ($int===$str)
+	 echo "ravni";
+ else
+	 echo "ne ravni"
 
 
 
 
 
 
-
-
-
-
-?>
-
-
-
-	
+?>	
