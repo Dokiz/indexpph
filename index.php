@@ -41,11 +41,42 @@ else
 //
 echo"</br>";
 $newArray=array(
-       "Текст1"
-	   "Текст2"
-	   "Текст3"
+       "Текст1",
+	   "Текст2",
+	   "Текст3",
 );
 echo "<pre>";
+//
+//22222
+//
+echo "</br>";
+$a=10;
+$b="10";
+if($a==$b){
+	echo "ravni";
+}
+else
+{
+	echo "ne ravni";
+}
+echo "</br>";
+if($a===$b){
+	echo "ravni";
+}
+else
+{
+	echo "ne ravni";
+}
+
+
+
+
+
+
+
+
+
+
 ?>
 
 
