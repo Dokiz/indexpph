@@ -78,6 +78,27 @@ echo "\x8A","\xBS","\xB0","\xA7","\xB6\r";
 	 echo "ravni";
  else
 	 echo "ne ravni"
+ //
+ //254242
+ //
+echo "</br>";
+$a="";
+$b=0;
+if($a==$b){
+	echo "ravni";
+}
+else
+{
+	echo "ne ravni";
+}
+echo "</br>";
+if($a==$b){
+	echo "ravni";
+}
+else
+{
+	echo "ne ravni";
+}
 
 
 
